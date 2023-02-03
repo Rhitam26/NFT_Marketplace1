@@ -1,4 +1,4 @@
-# NFT_Marketplace1
+# CryptoBantai NFT
 
 ## Features
 Mint custom ERC721 "CryptoBantai".
